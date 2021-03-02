@@ -1,0 +1,12 @@
+#intro {
+  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
+  background-size: cover;
+} 
+
+
+
+#intro .h6 {
+  font-weight: 300;
+  line-height: 1.7;
+}
+
